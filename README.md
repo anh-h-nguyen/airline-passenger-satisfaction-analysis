@@ -30,10 +30,10 @@ By leveraging customer reviews, airlines can focus on what matters most to their
 Data
 - Source: Kaggle (Airline reviews dataset from airlinequality.com)
 - Size: 128,000 reviews
-Features
-- Ratings (e.g. seat comfort, service, food, quality, and value)
-- Travel type (business, leisure, etc.)
-- Airline names (547 airlines, filtered to the top 11 U.S. airlines)
+- Features:
+   - Ratings (e.g. seat comfort, service, food, quality, and value)
+   - Travel type (business, leisure, etc.)
+   - Airline names (547 airlines, filtered to the top 11 U.S. airlines)
 
 Milestones
 1. Data Selection and EDA (Exploratory Data Analysis)
