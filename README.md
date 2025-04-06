@@ -1,6 +1,6 @@
 # airline-passenger-satisfaction-analysis
 ## Technologies Used
-- Programming Lanaguge: Python
+- Programming Language: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - Tools: Juptyer Notebook
 
