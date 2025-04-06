@@ -5,6 +5,7 @@ Technologies Used
 - Tools: Juptyer Notebook
 
 Project Overview
+
 This project analyzes 128,000 airline reviews to uncover key drivers of passenger satisfaction. By examining feedback from 11 major U.S. airlines, it provides actionable insights for airlines to improve customer experiences, attract new travelers, and maintain loyal ones. The project encompasses the entire data science workflow, including data cleaning, visualization, and model building.
 
 Table of Contents
@@ -18,6 +19,7 @@ Table of Contents
 8. Technologies Used
 
 Introduction
+
 The goal of this project is to:
 1. Identify factors influencing passenger satisfaction.
 2. Compare airlines based on satisfaction ratings.
