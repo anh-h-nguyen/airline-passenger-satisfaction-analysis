@@ -1,6 +1,4 @@
 # airline-passenger-satisfaction-analysis
-Highlights data mining skills
-
 Technologies Used
 - Programming Lanaguge: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
