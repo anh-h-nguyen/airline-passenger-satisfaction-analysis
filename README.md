@@ -43,12 +43,12 @@ By leveraging customer reviews, airlines can focus on what matters most to their
 - Value, seat comfort, and service quality are the strongest predictors of overall satisfaction
 - Airlines like Southwest have shown consistent improvement in ratings since 2022.
 
-# Recommendations
+## Recommendations
 1. Service improvements
 2. Target marketing
 3. Highlight strengths
 
-Future Work
+## Future Work
 - Expand to international airlines
 - Explore cultural differences on impacts to passenger satisfaction
 - Use financial data to identify high-value traveler segments
