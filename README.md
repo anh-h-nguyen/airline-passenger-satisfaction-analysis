@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction Analysis
+# ✈️ Airline Passenger Satisfaction Analysis
 ## Technologies Used
 - Programming Language: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
